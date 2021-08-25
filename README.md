@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-The purpose of the UFO Sightings project is to add further filtering abilities to the webpage. This will allow a more in-depth analysis of the UFO sightings.
+The purpose of the UFO Sightings project is to look at UFO sightings and add further filtering abilities to the webpage. This will allow an in-depth analysis of the UFO sightings.
 
 ## Results
 The UFO Sightings webpage can easily be used by someone by entering filters. At the bottom left-hand side of the page are five filtering options: date, city, state, country, and shape. ![website.png](Resources/website.png) ![filters.png](Resources/filters.png) 
